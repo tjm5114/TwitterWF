@@ -1,0 +1,13 @@
+c:\users\trey\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\Bin\Debug\ApplicationIcon.png
+c:\users\trey\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\Bin\Debug\Background.png
+c:\users\trey\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\Bin\Debug\PhoneApp1.dll
+c:\users\trey\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\Bin\Debug\PhoneApp1.pdb
+c:\users\trey\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\Bin\Debug\AppManifest.xaml
+c:\users\trey\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\Bin\Debug\PhoneApp1.xap
+c:\users\trey\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\obj\Debug\ResolveAssemblyReference.cache
+c:\users\trey\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\obj\Debug\App.g.i.cs
+c:\users\trey\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\obj\Debug\MainPage.g.i.cs
+c:\users\trey\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\obj\Debug\PhoneApp1.g.resources
+c:\users\trey\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\obj\Debug\PhoneApp1.dll
+c:\users\trey\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\obj\Debug\PhoneApp1.pdb
+c:\users\trey\documents\visual studio 2010\Projects\PhoneApp1\PhoneApp1\obj\Debug\XapCacheFile.xml
